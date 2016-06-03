@@ -1,4 +1,4 @@
-# Offline App Example - Emerge Show/Tell
+# Offline App Example
 
 A service worker is a script ran by the browser that works in the background separate from a webpage. This enables such technology on the web as push notifications, background sync, geofencing, offline apps/sites.
 
